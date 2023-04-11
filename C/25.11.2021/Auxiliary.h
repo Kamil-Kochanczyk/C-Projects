@@ -1,0 +1,1 @@
+void method(char* message);
