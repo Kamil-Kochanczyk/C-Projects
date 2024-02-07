@@ -1,2 +1,2 @@
 # C-Projects
-In this repo I have collected all programs that I wrote for my C classes in a university.
+Programs created for C classes in a university.
